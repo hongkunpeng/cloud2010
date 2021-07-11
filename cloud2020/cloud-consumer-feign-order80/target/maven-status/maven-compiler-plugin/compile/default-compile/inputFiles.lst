@@ -1,4 +1,4 @@
-E:\学习项目\cloud2020\cloud-consumer-feign-order80\src\main\java\com\atguigu\springcloud\OrderFeignMain80.java
-E:\学习项目\cloud2020\cloud-consumer-feign-order80\src\main\java\com\atguigu\springcloud\config\FeignConfig.java
-E:\学习项目\cloud2020\cloud-consumer-feign-order80\src\main\java\com\atguigu\springcloud\controller\OrderFeignController.java
-E:\学习项目\cloud2020\cloud-consumer-feign-order80\src\main\java\com\atguigu\springcloud\service\PaymentFeignService.java
+E:\cloud2010\cloud2010\cloud2020\cloud-consumer-feign-order80\src\main\java\com\atguigu\springcloud\service\PaymentFeignService.java
+E:\cloud2010\cloud2010\cloud2020\cloud-consumer-feign-order80\src\main\java\com\atguigu\springcloud\OrderFeignMain80.java
+E:\cloud2010\cloud2010\cloud2020\cloud-consumer-feign-order80\src\main\java\com\atguigu\springcloud\controller\OrderFeignController.java
+E:\cloud2010\cloud2010\cloud2020\cloud-consumer-feign-order80\src\main\java\com\atguigu\springcloud\config\FeignConfig.java
